@@ -18,6 +18,9 @@
 **Violence Detection System**  
 LSTM-based multi-person video classifier with YOLOv8 + CUDA acceleration for real-time violence detection and optimized pipeline scripting.
 
+**Medical Diagnosis Assistant**  
+LLM-powered symptom analyzer and skin disease classifier combined in a single web app, featuring natural language understanding and real-time image-based diagnosis using EfficientNet.
+
 ---
 
 ### Tech Toolbox
