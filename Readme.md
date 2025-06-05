@@ -32,7 +32,8 @@ LLM-powered symptom analyzer and skin disease classifier combined in a single we
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?logo=streamlit&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Jenkins](https://img.shields.io/jenkins/build)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939)
+
 
 ---
 
