@@ -21,6 +21,12 @@ LSTM-based multi-person video classifier with YOLOv8 + CUDA acceleration for rea
 **Medical Diagnosis Assistant**  
 LLM-powered symptom analyzer and skin disease classifier combined in a single web app, featuring natural language understanding and real-time image-based diagnosis using EfficientNet.
 
+**Idea2Tasks AI Assistant**
+AI tool that turns ideas into actionable tasks using LLMs. Supports voice/text input, task breakdown, and real-time editing.
+
+**RAG Query Engine**
+Smart CSV query tool using RAG and embeddings to answer natural language questions on structured data.
+
 ---
 
 ### Tech Toolbox
