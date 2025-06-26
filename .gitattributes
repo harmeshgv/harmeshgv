@@ -1,1 +1,4 @@
 *.ipynb linguist-detectable=false
+*.ipynb linguist-detectable=false
+*.csv linguist-detectable=false
+*.txt linguist-detectable=false
