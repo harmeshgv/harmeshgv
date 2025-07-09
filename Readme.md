@@ -47,6 +47,11 @@ Smart CSV query tool using RAG and embeddings to answer natural language questio
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harmeshgv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ### GitHub Stats
 
 <p align="center">
