@@ -2,7 +2,7 @@
 
 **AI Builder | ML Engineer | Open Source Contributor**
 
-I'm a B.Tech Computer Science student passionate about building intelligent systems and turning ideas into real products.
+I'm a Computer Science Engineer student passionate about building intelligent systems and turning ideas into real products.
 I enjoy working on **AI systems, machine learning models, and developer tools**, and I learn new technologies by building things that solve real problems.
 
 I actively participate in **Kaggle competitions**, experiment with **LLMs and AI infrastructure**, and contribute to **open-source projects** to keep improving as a developer.
